@@ -48,6 +48,9 @@ app.use(cors({
 }));
 
 app.use(express.json());
+app.get("/", (req,res)=>{
+  res.send("SmartEMI Backend API Running 🚀");
+});
 
 app.get("/health",(_req,res)=>{
 
