@@ -3,6 +3,8 @@
 Backend service for **SmartEMI**, a fintech web application that helps users analyze education loans using EMI calculations, affordability analysis, financial health scoring, and AI-driven financial advice.
 
 ---
+## Live API
+https://smartemi-backend-b2p7.onrender.com
 
 # 🚀 Features
 
